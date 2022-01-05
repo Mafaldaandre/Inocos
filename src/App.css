@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,400&display=swap');
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'raleway';
+    font-size: 62.5%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+input {
+   width: 150px;
+   height: 30px;
+   padding: 15px;
+   border-radius: 5px;
+   outline: none;
+   border: 1px solid #919191;
+}
+
+button {
+    height: 30px;
+    margin-left: 10px;
+    background-color: rgb(173, 56, 173);
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+   transform: scale(1.1,1.1);
+}
+
+.lacquers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 150px;
+    padding: 50px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 3.5rem;
+    letter-spacing:3px;
+    text-shadow: 2px 2px 4px #b429b4;
+    
+}
+
+@media only screen and (max-width:1020px) {
+
+	.lacquers {
+        grid-gap: 113px;
+	}
+   
+}
+
+
+
+
+
+
+
+

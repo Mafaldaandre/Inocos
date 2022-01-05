@@ -1,0 +1,20 @@
+select {
+    position: absolute;
+    right: 90px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: rgb(173, 56, 173);
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+option {
+  background-color: rgb(238, 212, 238);
+}
+
+
+
+
+

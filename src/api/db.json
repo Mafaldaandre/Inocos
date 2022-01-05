@@ -1,0 +1,758 @@
+{
+    "lacquers": [
+        {
+            "id": 5,
+            "color": "Amarelo",
+            "name": "Canario Faisca",
+            "gammaId": 4,
+            "image": "img5.jpg"
+        },
+        {
+            "id": 2,
+            "color": "Amarelo",
+            "name": "Amor Proibido",
+            "gammaId": 9,
+            "image": "img2.jpg"
+        },
+        {
+            "id": 3,
+            "color": "Amarelo",
+            "name": "Maria Papaia",
+            "gammaId": 7,
+            "image": "img3.jpg"
+        },
+        {
+            "id": 4,
+            "color": "Amarelo",
+            "name": "Maria Bifana",
+            "gammaId": 9,
+            "image": "img4.jpg"
+        },
+        {
+            "id": 1,
+            "color": "Amarelo",
+            "name": "Maria limonada",
+            "gammaId": 2,
+            "image": "img1.jpg"
+        },
+        {
+            "id": 6,
+            "color": "Amarelo",
+            "name": "A Moda Do Pisca Pisca",
+            "gammaId": 1,
+            "image": "img6.jpg"
+        },
+        {
+            "id": 7,
+            "color": "Azul",
+            "name": "O Lago",
+            "gammaId": 9,
+            "image": "img7.jpg"
+        },
+        {
+            "id": 8,
+            "color": "Azul",
+            "name": "Serenata",
+            "gammaId": 8,
+            "image": "img8.jpg"
+        },
+        {
+            "id": 9,
+            "color": "Azul",
+            "name": "Maria Ceu",
+            "gammaId": 7,
+            "image": "img9.jpg"
+        },
+        {
+            "id": 10,
+            "color": "Azul",
+            "name": "Maria Ai Os Homens",
+            "gammaId": 9,
+            "image": "img10.jpg"
+        },
+        {
+            "id": 11,
+            "color": "Bordoux",
+            "name": "Caldeirao",
+            "gammaId": 8,
+            "image": "img11.jpg"
+        },
+        {
+            "id": 12,
+            "color": "Preto",
+            "name": "Principezinho",
+            "gammaId": 8,
+            "image": "img12.jpg"
+        },
+        {
+            "id": 13,
+            "color": "Cinza",
+            "name": "Maria Fadista",
+            "gammaId": 8,
+            "image": "img13.jpg"
+        },
+        {
+            "id": 14,
+            "color": "Castanho",
+            "name": "Maria Palito",
+            "gammaId": 7,
+            "image": "img14.jpg"
+        },
+        {
+            "id": 15,
+            "color": "Castanho",
+            "name": "Maria Caracoleta",
+            "gammaId": 8,
+            "image": "img15.jpg"
+        },
+        {
+            "id": 16,
+            "color": "Preto",
+            "name": "Maria Sorridente",
+            "gammaId": 1,
+            "image": "img16.jpg"
+        },
+        {
+            "id": 17,
+            "color": "Rosa",
+            "name": "Maria Abracinho",
+            "gammaId": 2,
+            "image": "img17.jpg"
+        },
+        {
+            "id": 18,
+            "color": "Prata",
+            "name": "Glitter Show Prata",
+            "gammaId": 1,
+            "image": "img18.jpg"
+        },
+        {
+            "id": 19,
+            "color": "Dourado",
+            "name": "Glitter Show Ouro",
+            "gammaId": 1,
+            "image": "img19.jpg"
+        },
+        {
+            "id": 20,
+            "color": "Branco",
+            "name": "Glitter Show Molografico",
+            "gammaId": 1,
+            "image": "img20.jpg"
+        },
+        {
+            "id": 21,
+            "color": "Azul",
+            "name": "Dos Cisnes",
+            "gammaId": 1,
+            "image": "img21.jpg"
+        },
+        {
+            "id": 22,
+            "color": "Vermelho",
+            "name": "Nozes",
+            "gammaId": 1,
+            "image": "img22.jpg"
+        },
+        {
+            "id": 23,
+            "color": "Rosa",
+            "name": "E Julieta",
+            "gammaId": 1,
+            "image": "img23.jpg"
+        },
+        {
+            "id": 24,
+            "color": "Rosa",
+            "name": "O Amor é Respeito",
+            "gammaId": 1,
+            "image": "img24.jpg"
+        },
+        {
+            "id": 25,
+            "color": "Prata",
+            "name": "Fada",
+            "gammaId": 1,
+            "image": "img25.jpg"
+        },
+        {
+            "id": 26,
+            "color": "Dourado",
+            "name": "Sininho",
+            "gammaId": 1,
+            "image": "img26.jpg"
+        },
+        {
+            "id": 27,
+            "color": "Prata",
+            "name": "Maria Estrela Prata Holografico",
+            "gammaId": 1,
+            "image": "img27.jpg"
+        },
+        {
+            "id": 28,
+            "color": "Prata",
+            "name": "Maria Estrela Prata",
+            "gammaId": 1,
+            "image": "img28.jpg"
+        },
+        {
+            "id": 29,
+            "color": "Rosa",
+            "name": "Maria Estrela Rosa",
+            "gammaId": 1,
+            "image": "img29.jpg"
+        },
+        {
+            "id": 30,
+            "color": "Prata",
+            "name": "Maria Pintas",
+            "gammaId": 1,
+            "image": "img30.jpg"
+        },
+        {
+            "id": 31,
+            "color": "Rosa",
+            "name": "Pai Manel",
+            "gammaId": 1,
+            "image": "img31.jpg"
+        },
+        {
+            "id": 32,
+            "color": "Verde",
+            "name": "Dançar Ate Ser Dia",
+            "gammaId": 1,
+            "image": "img32.jpg"
+        },
+        {
+            "id": 33,
+            "color": "Laranja",
+            "name": "Cão Bolinhas",
+            "gammaId": 1,
+            "image": "img33.jpg"
+        },
+        {
+            "id": 34,
+            "color": "Laranja",
+            "name": "Pés Na Areia",
+            "gammaId": 7,
+            "image": "img34.jpg"
+        },
+        {
+            "id": 35,
+            "color": "Laranja",
+            "name": "Maria Nazaré",
+            "gammaId": 2,
+            "image": "img35.jpg"
+        },
+        {
+            "id": 36,
+            "color": "Coral",
+            "name": "Maria Nova Iorque",
+            "gammaId": 6,
+            "image": "img36.jpg"
+        },
+        {
+            "id": 37,
+            "color": "Vermelho",
+            "name": "maria Lisboa",
+            "gammaId": 4,
+            "image": "img37.jpg"
+        },
+        {
+            "id": 38,
+            "color": "Rosa",
+            "name": "Joaninha",
+            "gammaId": 4,
+            "image": "img38.jpg"
+        },
+        {
+            "id": 39,
+            "color": "Coral",
+            "name": "Avo Zulmira",
+            "gammaId": 4,
+            "image": "img39.jpg"
+        },
+        {
+            "id": 40,
+            "color": "Vermelho",
+            "name": "Super Mãe Maria",
+            "gammaId": 4,
+            "image": "img40.jpg"
+        },
+        {
+            "id": 41,
+            "color": "Rosa",
+            "name": "Maria Roda Da Sorte",
+            "gammaId": 2,
+            "image": "img41.jpg"
+        },
+        {
+            "id": 42,
+            "color": "Rosa",
+            "name": "Unhas Ao Sol",
+            "gammaId": 4,
+            "image": "img42.jpg"
+        },
+        {
+            "id": 43,
+            "color": "Nude",
+            "name": "Beija O Bolo",
+            "gammaId": 3,
+            "image": "img43.jpg"
+        },
+        {
+            "id": 44,
+            "color": "Nude",
+            "name": "Vaidosa",
+            "gammaId": 3,
+            "image": "img44.jpg"
+        },
+        {
+            "id": 45,
+            "color": "Branco",
+            "name": "Cabra Cega",
+            "gammaId": 3,
+            "image": "img45.jpg"
+        },
+        {
+            "id": 46,
+            "color": "Nude",
+            "name": "Princesa",
+            "gammaId": 3,
+            "image": "img46.jpg"
+        },
+        {
+            "id": 47,
+            "color": "Lilas",
+            "name": "Algodão Doce",
+            "gammaId": 6,
+            "image": "img47.jpg"
+        },
+        {
+            "id": 48,
+            "color": "Nude",
+            "name": "Maria Creme",
+            "gammaId": 3,
+            "image": "img48.jpg"
+        },
+        {
+            "id": 49,
+            "color": "Castanho",
+            "name": "Natura",
+            "gammaId": 4,
+            "image": "img49.jpg"
+        },
+        {
+            "id": 50,
+            "color": "Cinza",
+            "name": "Eça",
+            "gammaId": 3,
+            "image": "img50.jpg"
+        },
+        {
+            "id": 51,
+            "color": "Rosa",
+            "name": "Maria Paris",
+            "gammaId": 3,
+            "image": "img50.jpg"
+        },
+        {
+            "id": 52,
+            "color": "Lilás",
+            "name": "Maria Fuseta",
+            "gammaId": 7,
+            "image": "img52.jpg"
+        },
+        {
+            "id": 53,
+            "color": "Salmão",
+            "name": "Maria Mil Fontes",
+            "gammaId": 3,
+            "image": "img53.jpg"
+        },
+        {
+            "id": 54,
+            "color": "Rosa",
+            "name": "Oliveirinha",
+            "gammaId": 7,
+            "image": "img54.jpg"
+        },
+        {
+            "id": 55,
+            "color": "Nude",
+            "name": "Areias",
+            "gammaId": 3,
+            "image": "img55.jpg"
+        },
+        {
+            "id": 56,
+            "color": "Salmão",
+            "name": "Machadinha",
+            "gammaId": 3,
+            "image": "img56.jpg"
+        },
+        {
+            "id": 57,
+            "color": "Castanho",
+            "name": "Maria Morena",
+            "gammaId": 3,
+            "image": "img57.jpg"
+        },
+        {
+            "id": 58,
+            "color": "lilás",
+            "name": "Maria Sardinha",
+            "gammaId": 9,
+            "image": "img58.jpg"
+        },
+        {
+            "id": 59,
+            "color": "Castanho",
+            "name": "Maria Patchouly",
+            "gammaId": 9,
+            "image": "img59.jpg"
+        },
+        {
+            "id": 60,
+            "color": "Rosa",
+            "name": "Maria Txaran",
+            "gammaId": 2,
+            "image": "img60.jpg"
+        },
+        {
+            "id": 61,
+            "color": "Rosa",
+            "name": "Romeu",
+            "gammaId": 9,
+            "image": "img61.jpg"
+        },
+        {
+            "id": 62,
+            "color": "Rosa",
+            "name": "Bebé Ritinha",
+            "gammaId": 7,
+            "image": "img62.jpg"
+        },
+        {
+            "id": 63,
+            "color": "Salmão",
+            "name": "Maria Framboesa",
+            "gammaId": 7,
+            "image": "img63.jpg"
+        },
+        {
+            "id": 64,
+            "color": "Rosa",
+            "name": "Maria Roma",
+            "gammaId": 6,
+            "image": "img64.jpg"
+        },
+        {
+            "id": 65,
+            "color": "Rosa",
+            "name": "Maria Rio",
+            "gammaId": 2,
+            "image": "img65.jpg"
+        },
+        {
+            "id": 66,
+            "color": "Rosa",
+            "name": "Maria Lagos",
+            "gammaId": 6,
+            "image": "img66.jpg"
+        },
+        {
+            "id": 67,
+            "color": "Rosa",
+            "name": "Maria Agora Ou Nunca",
+            "gammaId": 7,
+            "image": "img67.jpg"
+        },
+        {
+            "id": 68,
+            "color": "Roxo",
+            "name": "Portuguesinha",
+            "gammaId": 9,
+            "image": "img68.jpg"
+        },
+        {
+            "id": 69,
+            "color": "Rosa",
+            "name": "O Amor é Partilha",
+            "gammaId": 2,
+            "image": "img69.jpg"
+        },
+        {
+            "id": 70,
+            "color": "Rosa",
+            "name": "Sandálias",
+            "gammaId": 8,
+            "image": "img70.jpg"
+        },
+        {
+            "id": 71,
+            "color": "lilás",
+            "name": "Maria Amora",
+            "gammaId": 7,
+            "image": "img71.jpg"
+        },
+        {
+            "id": 72,
+            "color": "Roxo",
+            "name": "Maria Tóquio",
+            "gammaId": 8,
+            "image": "img72.jpg"
+        },
+        {
+            "id": 73,
+            "color": "Roxo",
+            "name": "Maria Calheta",
+            "gammaId": 8,
+            "image": "img73.jpg"
+        },
+        {
+            "id": 74,
+            "color": "Roxo",
+            "name": "Maria Pintarola",
+            "gammaId": 2,
+            "image": "img74.jpg"
+        },
+        {
+            "id": 75,
+            "color": "Salmão",
+            "name": "Sebastião",
+            "gammaId": 6,
+            "image": "img75.jpg"
+        },
+        {
+            "id": 76,
+            "color": "Salmão",
+            "name": "Filha Pipa",
+            "gammaId": 9,
+            "image": "img76.jpg"
+        },
+        {
+            "id": 77,
+            "color": "Salmão",
+            "name": "Marés Vivas",
+            "gammaId": 2,
+            "image": "img77.jpg"
+        },
+        {
+            "id": 78,
+            "color": "verde",
+            "name": "Pessoa",
+            "gammaId": 5,
+            "image": "img78.jpg"
+        },
+        {
+            "id": 79,
+            "color": "Verde",
+            "name": "Maria Abacate",
+            "gammaId": 4,
+            "image": "img79.jpg"
+        },
+        {
+            "id": 80,
+            "color": "verde",
+            "name": "Maria Londres",
+            "gammaId": 7,
+            "image": "img80.jpg"
+        },
+        {
+            "id": 81,
+            "color": "Verde",
+            "name": "Maria Rabo De Peixe",
+            "gammaId": 6,
+            "image": "img81.jpg"
+        },
+        {
+            "id": 82,
+            "color": "Verde",
+            "name": "Maria Popeye",
+            "gammaId": 4,
+            "image": "img82.jpg"
+        },
+        {
+            "id": 83,
+            "color": "Verde",
+            "name": "Filho Quico",
+            "gammaId": 4,
+            "image": "img83.jpg"
+        },
+        {
+            "id": 84,
+            "color": "Verde",
+            "name": "Lágrimas De Corcodilo",
+            "gammaId": 8,
+            "image": "img84.jpg"
+        },
+        {
+            "id": 85,
+            "color": "Verde",
+            "name": "Sábado Maria Pirosa",
+            "gammaId": 6,
+            "image": "img85.jpg"
+        },
+        {
+            "id": 86,
+            "color": "Verde",
+            "name": "Cabelos ao Vento",
+            "gammaId": 2,
+            "image": "img86.jpg"
+        },
+        {
+            "id": 87,
+            "color": "Vermelho",
+            "name": "O Quebra",
+            "gammaId": 2,
+            "image": "img87.jpg"
+        },
+        {
+            "id": 88,
+            "color": "Vermelho",
+            "name": "Vermelho Romance",
+            "gammaId": 2,
+            "image": "img88.jpg"
+        },
+        {
+            "id": 89,
+            "color": "Vermelho",
+            "name": "Vermelho Sedução",
+            "gammaId": 1,
+            "image": "img89.jpg"
+        },
+        {
+            "id": 90,
+            "color": "Vermelho",
+            "name": "Piquenique",
+            "gammaId": 9,
+            "image": "img90.jpg"
+        },
+        {
+            "id": 91,
+            "color": "Vermelho",
+            "name": "Maria Morango",
+            "gammaId": 6,
+            "image": "img91.jpg"
+        },
+        {
+            "id": 92,
+            "color": "Vermelho",
+            "name": "Morangão",
+            "gammaId": 4,
+            "image": "img92.jpg"
+        },
+        {
+            "id": 93,
+            "color": "Vermelho",
+            "name": "Super Bomboca",
+            "gammaId": 2,
+            "image": "img93.jpg"
+        }
+    
+    ],
+
+    "lacquersGamma": [
+        {
+            "id": 1,
+            "name": "Glamorous",
+            "image": "gamma1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Fashion",
+            "image": "gamma2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Natura",
+            "image": "gamma3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sweet Summer",
+            "image": "gamma4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Best Friends",
+            "image": "gamma5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Crazy",
+            "image": "gamma6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Hope",
+            "image": "gamma7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Obsession",
+            "image": "gamma8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Show",
+            "image": "gamma9.jpg"
+        }
+    ],
+
+    "vendingLocation": [
+        {
+            "id": 1,
+            "name": "Inocos Évora",
+            "address": "Quinta do Alcaide - S. José da Ponte 7005-312 Évora",
+            "position": {
+                "lat": 40.6736837,
+                "lng": -7.9206225
+            },
+            "image": "inocosEvora.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Inocos Amadora",
+            "address": "Avenida José Garcês 2650 Amadora",
+            "position": {
+                "lat": 38.7776201,
+                "lng": -9.2228016
+            },
+            "image": "inocosAmadora.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Inocos Braga",
+            "address": "Av. D. João II, Lamações 4715-275 Braga",
+            "position": {
+                "lat": 41.5480198,
+                "lng": -8.3986821
+            },
+            "image": "inocosBraga.jpg" 
+        },
+        {
+            "id": 4,
+            "name": "Inocos Albufeira",
+            "address": "Estrada Nacional 125, Km. 68 Tavagueira - Guia 8200-856 Albufeira",
+            "position": {
+                "lat": 37.130415,
+                "lng": -8.2855867
+            },
+            "image": "inocosAlbufeira.jpg" 
+        },
+        {
+            "id": 5,
+            "name": "Inocos Viseu",
+            "address": "Avenida da Bélgica, Estrada nacional nº2, Km 170, 500 3510-159 Viseu",
+            "position": {
+                "lat": 38.5597841,
+                "lng": -7.8968405
+            },
+            "image": "inocosViseu.jpg" 
+        }
+    ]
+   
+  }

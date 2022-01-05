@@ -1,0 +1,20 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    font-size: 2rem;
+    letter-spacing:3px;
+    text-shadow: 2px 2px 4px #b429b4;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.pVending {
+    text-align: center;
+}

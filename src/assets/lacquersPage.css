@@ -1,0 +1,19 @@
+.imgLacquers {
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+}
+
+.imgLacquers:hover {
+  transform: rotate(20deg);
+  
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+
+}
+
+article {
+  visibility: hidden; 
+}

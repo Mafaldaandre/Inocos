@@ -1,0 +1,70 @@
+.imgSlider {
+    max-width: 70%;
+    height: 500px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+hr {
+    margin: 60px 30px ;
+    border: 1px solid #ddd;
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.col-3 {
+    flex: 0 33.3333%;
+    border: 15px solid transparent;
+    text-align: center;
+
+}
+
+.imgGamma {
+    border: 3px solid #ddd;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.imgGamma:hover {
+    transform: scale(1.1,1.1);
+ }
+ 
+
+
+.gamma {
+    font-size: 2.0rem;
+    line-height: 36px;
+    letter-spacing:3px;
+    text-shadow: 2px 2px 4px #b429b4;
+    text-decoration: none;
+}
+
+@media screen and (max-width:768px) {
+   
+    .imgSlider {
+        height: 400px;
+        padding: 7px;
+    }
+
+    .col-3 {
+        flex: 0 50%;
+    
+    }
+      
+  }
+
+
+
+
+
+
+
+
+
+
+
+    
