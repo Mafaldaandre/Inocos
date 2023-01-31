@@ -4,10 +4,6 @@ import { store } from "../store/store";
 
 const Lacquers = (props) => {
     const { id, name, image } = props.item;
-
-    const addToWishList = () => {
-		store.dispatch({ type: 'ADD', id: 1 });
-    }
     
     return (
         <Link to={`/details/${id}`}>
